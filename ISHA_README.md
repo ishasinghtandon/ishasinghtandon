@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @ishasinghtandon
-- 👀 I’m interested in programming stuff.
-- 🌱 I’m currently learning ethical hacking.
-- 📫 How to reach me- email me - ishasinghtandon@gmail.com
