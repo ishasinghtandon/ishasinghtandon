@@ -10,7 +10,7 @@
   
   
 ##  🙋‍♂️ About me:
-Hello! I'm Isha, a Pre-Final year Information Technology student, a Data Analyst and Scientist who loves to explore.
+Hello! I'm Isha, a Final year Information Technology student, a Data Analyst and Scientist who loves to explore.
 I usually work on **Data Analysing**, **Web Development**, **C** , **Python** and **C++**.
 
 ##  👨‍💻 Experience
