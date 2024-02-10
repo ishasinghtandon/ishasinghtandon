@@ -2,7 +2,7 @@
 
 
 <h1 align = "center"> Hi,I'm Isha Tandon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
-<h3 align="center">I'm a passionate Software Engineer from India.</h3>
+<h3 align="center">I'm a passionate Data Scientist & a Software Engineer from India.</h3>
 <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+ISHA+TANDON;I'm+a+Software+Developer.;%E2%9D%A4%EF%B8%8F+Data+Analyst+%7C+Web+Developer+%7C+Data+Scientist+%7C+Cpp+Programmer;)](https://git.io/typing-svg)
@@ -10,8 +10,8 @@
   
   
 ##  🙋‍♂️ About me:
-Hello! I'm Isha, a Final year Information Technology student, a Data Analyst and Scientist who loves to explore.
-I usually work on **Data Analysing**, **Web Development**, **C** , **Python** and **C++**.
+Hello! I'm Isha, a Final year Information Technology student, a Data Scientist and Analyst who loves to explore.
+I usually work on **Data Science**, **Data Analysis**, **Web Development**, **C++** , **Python** and **C**.
 
 ##  👨‍💻 Experience
 - **[Data Science Intern]** at **[CodeClause](https://internship.codeclause.com/)**. 
@@ -33,7 +33,7 @@ I usually work on **Data Analysing**, **Web Development**, **C** , **Python** an
 
 - Projects: [github.com/ishasinghtandon](https://github.com/ishasinghtandon)
 - Linkedin: [linkedin.com/isha-tandon-24602020a](https://linkedin.com/in/isha-tandon-24602020a)
-- Resume: [resume/Isha-Tandon](https://drive.google.com/file/d/1DTJZqqV-57ZT1d7ZotMYYpYnzV9Ux9eI/view?usp=sharing)
+- Resume: [resume/Isha-Tandon]([https://drive.google.com/file/d/1DTJZqqV-57ZT1d7ZotMYYpYnzV9Ux9eI/view?usp=sharing](https://drive.google.com/file/d/19ShOO3Ul5gO5MbKYmOtL-qUprD6W14zs/view?usp=drive_link))
 
 
 ## 🚀 Skills:
@@ -73,7 +73,7 @@ Domain | Tech Stacks
 
 - 👋 Hi, I’m Isha Tandon .
 - 👀 I’m interested in hacking and programming stuff.
-- 🌱 I’m currently learning Web Development , Machine Learning & Data Science.
+- 🌱 I’m currently learning Machine Learning & Data Science.
 - 📫 How to reach me - email me : @ishasinghtandon@gmail.com .
 
 
