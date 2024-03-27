@@ -33,7 +33,7 @@ I usually work on **Data Science**, **Data Analysis**, **Web Development**, **C+
 
 - Projects: [github.com/ishasinghtandon](https://github.com/ishasinghtandon)
 - Linkedin: [linkedin.com/isha-tandon-24602020a](https://linkedin.com/in/isha-tandon-24602020a)
-- Resume: [resume/Isha-Tandon]([https://drive.google.com/file/d/1DTJZqqV-57ZT1d7ZotMYYpYnzV9Ux9eI/view?usp=sharing](https://drive.google.com/file/d/19ShOO3Ul5gO5MbKYmOtL-qUprD6W14zs/view?usp=drive_link))
+- Resume: [resume/Isha-Tandon](https://drive.google.com/file/d/19ShOO3Ul5gO5MbKYmOtL-qUprD6W14zs/view?usp=drive_link)
 
 
 ## 🚀 Skills:
